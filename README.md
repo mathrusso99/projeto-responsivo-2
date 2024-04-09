@@ -12,4 +12,4 @@
 <img src="https://github.com/mathrusso99/projeto-responsivo-2/blob/main/assets/pc-3.png?raw=true" alt="site-image">
 <br>
 <h3>Mobile :iphone:</h3>
-<img src="https://github.com/mathrusso99/projeto-responsivo-1/blob/main/assets/mobile-1.png?raw=true alt="mobile-image">
+<img src="https://github.com/mathrusso99/projeto-responsivo-2/blob/main/assets/mobile-3.png?raw=true" alt="mobile-image">
